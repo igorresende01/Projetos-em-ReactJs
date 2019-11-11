@@ -6,7 +6,7 @@ Através de tutoriais e da documentação oficial do framework, utilizei alguns 
 
 ### Clone o repositório
 ```
-  git clone https://github.com/igorresende01/Projetos-em-ReactJs
+  git clone https://github.com/igorresende01/projetos-em-reactjs
   cd aplicacao-api-digimon
 ```
 
